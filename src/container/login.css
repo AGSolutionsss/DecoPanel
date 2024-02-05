@@ -1,0 +1,39 @@
+.desktop {
+    display: block;
+    background-image: url('../assets/img/weather-1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: initial;
+    height: 640px;
+}
+
+.login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-heading {
+    font-size: 80px;
+    font-weight: 600;
+    font-family: initial;
+}
+
+.login-headings {
+    font-size: 45px;
+    font-family: initial;
+    font-weight: 600;
+}
+
+a:hover {
+    color: #1562ef !important;
+}
+
+@media only screen and (max-width: 600px) {
+    .desktop {
+        display: none !important;
+    }
+    .login-headings {
+        font-size: 30px;
+    }
+}

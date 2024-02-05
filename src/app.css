@@ -1,0 +1,95 @@
+.MuiListItem-button .item-active{
+    background-color: rgba(56, 70, 79,.6) !important;
+}
+.donorbtns{
+    float: right !important;
+    margin-top: -70px;
+    margin-right:-20px ;
+    display: flex;
+}
+
+.page-title .page-title-wrap h2 {
+    font-weight: bold !important;
+}
+.receiptbuttons{
+    float:right
+}
+
+.MUIDataTableHeadCell-fixedHeader-51 {
+  top: 0px;
+  z-index: 0 !important;
+  position: sticky;
+  background-color: #fff;
+}
+
+
+.antifloat{
+    clear: both;
+}
+.donortable{
+    width:100%
+}
+.donortable td{
+    padding-bottom: 5px;
+}
+
+    .MuiCircularProgress-root.MuiCircularProgress-colorSecondary.MuiCircularProgress-indeterminate{
+        margin-left: 38vw !important;
+    }
+    .MuiCircularProgress-root.MuiCircularProgress-colorPrimary.MuiCircularProgress-indeterminate{
+        margin-left: 38vw !important;
+    }
+.receiptDetails{
+    margin-bottom: 30px;
+    margin-top: -10px;
+    display: flex;
+    justify-content: space-between;
+}
+.receiptDetails h4{
+    font-weight: 400 !important;
+}
+.page-title-wrap .ti-arrow-left{
+    font-size: 17px;
+    font-weight:bold ;
+    background-color: #464D69 !important;
+    border-radius: 100%;
+    padding: 6px;
+    color:white !important;
+    margin-right: 20px !important;
+}
+.chapterdetailsform{
+    padding: 10px 20px !important;
+}
+
+input[type="date"] {
+    padding-left: 40px !important;
+
+}
+.error{
+    visibility: hidden;
+    margin-top: -15px;
+}
+.dateerror{
+    color: red;
+    margin-top: -20px;
+}
+.amounterror{
+    color: red;
+    margin-bottom: 20px !important;
+}
+#annualday{
+    padding-left: 80px !important;
+
+}
+.redcard{
+    background-color: rgb(252, 22, 22);
+}
+.current-widget .cardHead{
+    font-size: 20px !important;
+    margin-bottom: 1.525rem !important;
+}
+.flexbox{
+    display: flex;
+    justify-content: space-between;
+}
+
